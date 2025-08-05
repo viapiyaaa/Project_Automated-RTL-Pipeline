@@ -1,0 +1,285 @@
+2025-05-18 21:11:33,698 - INFO - Memulai proses ETL Fashion Product Scraper
+2025-05-18 21:11:33,698 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/
+2025-05-18 21:11:33,920 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page2
+2025-05-18 21:11:34,066 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page3
+2025-05-18 21:11:34,170 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page4
+2025-05-18 21:11:34,311 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page5
+2025-05-18 21:11:34,452 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page6
+2025-05-18 21:11:34,545 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page7
+2025-05-18 21:11:34,664 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page8
+2025-05-18 21:11:34,771 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page9
+2025-05-18 21:11:34,899 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page10
+2025-05-18 21:11:35,030 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page11
+2025-05-18 21:11:35,216 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page12
+2025-05-18 21:11:35,348 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page13
+2025-05-18 21:11:35,461 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page14
+2025-05-18 21:11:35,606 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page15
+2025-05-18 21:11:35,701 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page16
+2025-05-18 21:11:35,862 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page17
+2025-05-18 21:11:36,004 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page18
+2025-05-18 21:11:36,108 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page19
+2025-05-18 21:11:36,212 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page20
+2025-05-18 21:11:36,318 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page21
+2025-05-18 21:11:36,420 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page22
+2025-05-18 21:11:36,522 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page23
+2025-05-18 21:11:36,674 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page24
+2025-05-18 21:11:36,800 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page25
+2025-05-18 21:11:36,908 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page26
+2025-05-18 21:11:37,028 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page27
+2025-05-18 21:11:37,133 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page28
+2025-05-18 21:11:37,235 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page29
+2025-05-18 21:11:37,346 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page30
+2025-05-18 21:11:37,448 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page31
+2025-05-18 21:11:37,550 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page32
+2025-05-18 21:11:37,657 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page33
+2025-05-18 21:11:37,772 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page34
+2025-05-18 21:11:37,876 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page35
+2025-05-18 21:11:37,968 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page36
+2025-05-18 21:11:38,072 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page37
+2025-05-18 21:11:38,170 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page38
+2025-05-18 21:11:38,309 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page39
+2025-05-18 21:11:38,437 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page40
+2025-05-18 21:11:38,556 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page41
+2025-05-18 21:11:38,676 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page42
+2025-05-18 21:11:38,768 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page43
+2025-05-18 21:11:38,872 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page44
+2025-05-18 21:11:38,967 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page45
+2025-05-18 21:11:39,083 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page46
+2025-05-18 21:11:39,195 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page47
+2025-05-18 21:11:39,286 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page48
+2025-05-18 21:11:39,387 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page49
+2025-05-18 21:11:39,489 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page50
+2025-05-18 21:11:39,627 - INFO - Transformasi data selesai
+2025-05-18 21:11:39,635 - INFO - Data disimpan dalam format CSV
+2025-05-18 21:11:40,034 - INFO - Data dimuat ke PostgreSQL
+2025-05-18 21:11:40,040 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-18 21:11:42,562 - INFO - Data berhasil disimpan ke Google Sheets
+2025-05-18 21:11:42,563 - INFO - Proses ETL selesai
+2025-05-19 13:52:57,254 - INFO - Memulai proses ETL Fashion Product Scraper
+2025-05-19 13:52:57,254 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/
+2025-05-19 13:52:57,519 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page2
+2025-05-19 13:52:57,659 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page3
+2025-05-19 13:52:57,781 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page4
+2025-05-19 13:52:57,897 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page5
+2025-05-19 13:52:58,023 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page6
+2025-05-19 13:52:58,135 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page7
+2025-05-19 13:52:58,245 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page8
+2025-05-19 13:52:58,347 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page9
+2025-05-19 13:52:58,458 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page10
+2025-05-19 13:52:58,582 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page11
+2025-05-19 13:52:58,730 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page12
+2025-05-19 13:52:58,831 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page13
+2025-05-19 13:52:58,948 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page14
+2025-05-19 13:52:59,082 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page15
+2025-05-19 13:52:59,181 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page16
+2025-05-19 13:52:59,280 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page17
+2025-05-19 13:52:59,395 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page18
+2025-05-19 13:52:59,524 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page19
+2025-05-19 13:52:59,630 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page20
+2025-05-19 13:52:59,746 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page21
+2025-05-19 13:52:59,846 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page22
+2025-05-19 13:52:59,948 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page23
+2025-05-19 13:53:00,061 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page24
+2025-05-19 13:53:00,172 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page25
+2025-05-19 13:53:00,277 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page26
+2025-05-19 13:53:00,372 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page27
+2025-05-19 13:53:00,497 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page28
+2025-05-19 13:53:00,623 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page29
+2025-05-19 13:53:00,753 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page30
+2025-05-19 13:53:00,850 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page31
+2025-05-19 13:53:00,964 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page32
+2025-05-19 13:53:01,083 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page33
+2025-05-19 13:53:01,186 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page34
+2025-05-19 13:53:01,315 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page35
+2025-05-19 13:53:01,447 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page36
+2025-05-19 13:53:01,574 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page37
+2025-05-19 13:53:01,681 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page38
+2025-05-19 13:53:01,795 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page39
+2025-05-19 13:53:01,905 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page40
+2025-05-19 13:53:02,009 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page41
+2025-05-19 13:53:02,134 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page42
+2025-05-19 13:53:02,233 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page43
+2025-05-19 13:53:02,346 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page44
+2025-05-19 13:53:02,498 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page45
+2025-05-19 13:53:02,825 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page46
+2025-05-19 13:53:02,922 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page47
+2025-05-19 13:53:03,039 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page48
+2025-05-19 13:53:03,147 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page49
+2025-05-19 13:53:03,249 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page50
+2025-05-19 13:53:03,390 - INFO - Transformasi data selesai
+2025-05-19 13:53:03,400 - INFO - Data disimpan dalam format CSV
+2025-05-19 13:53:04,032 - INFO - Data dimuat ke PostgreSQL
+2025-05-19 13:53:04,034 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-19 13:53:08,305 - INFO - Data berhasil disimpan ke Google Sheets
+2025-05-19 13:53:08,305 - INFO - Proses ETL selesai
+2025-05-19 13:56:14,207 - INFO - Memulai proses ETL Fashion Product Scraper
+2025-05-19 13:56:14,207 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/
+2025-05-19 13:56:14,407 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page2
+2025-05-19 13:56:14,574 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page3
+2025-05-19 13:56:14,713 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page4
+2025-05-19 13:56:14,844 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page5
+2025-05-19 13:56:14,961 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page6
+2025-05-19 13:56:15,094 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page7
+2025-05-19 13:56:15,211 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page8
+2025-05-19 13:56:15,343 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page9
+2025-05-19 13:56:15,468 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page10
+2025-05-19 13:56:15,585 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page11
+2025-05-19 13:56:15,727 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page12
+2025-05-19 13:56:15,852 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page13
+2025-05-19 13:56:15,968 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page14
+2025-05-19 13:56:16,103 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page15
+2025-05-19 13:56:16,227 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page16
+2025-05-19 13:56:16,342 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page17
+2025-05-19 13:56:16,478 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page18
+2025-05-19 13:56:16,602 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page19
+2025-05-19 13:56:16,727 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page20
+2025-05-19 13:56:16,850 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page21
+2025-05-19 13:56:17,008 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page22
+2025-05-19 13:56:17,135 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page23
+2025-05-19 13:56:17,262 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page24
+2025-05-19 13:56:17,391 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page25
+2025-05-19 13:56:17,518 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page26
+2025-05-19 13:56:17,642 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page27
+2025-05-19 13:56:17,761 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page28
+2025-05-19 13:56:17,879 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page29
+2025-05-19 13:56:18,018 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page30
+2025-05-19 13:56:18,146 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page31
+2025-05-19 13:56:18,260 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page32
+2025-05-19 13:56:18,393 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page33
+2025-05-19 13:56:18,512 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page34
+2025-05-19 13:56:18,635 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page35
+2025-05-19 13:56:18,744 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page36
+2025-05-19 13:56:18,894 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page37
+2025-05-19 13:56:19,016 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page38
+2025-05-19 13:56:19,144 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page39
+2025-05-19 13:56:19,259 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page40
+2025-05-19 13:56:19,411 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page41
+2025-05-19 13:56:19,547 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page42
+2025-05-19 13:56:19,778 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page43
+2025-05-19 13:56:20,026 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page44
+2025-05-19 13:56:20,255 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page45
+2025-05-19 13:56:20,377 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page46
+2025-05-19 13:56:20,509 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page47
+2025-05-19 13:56:20,627 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page48
+2025-05-19 13:56:20,748 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page49
+2025-05-19 13:56:20,868 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page50
+2025-05-19 13:56:21,060 - INFO - Transformasi data selesai
+2025-05-19 13:56:21,077 - INFO - Data disimpan dalam format CSV
+2025-05-19 13:56:21,672 - INFO - Data dimuat ke PostgreSQL
+2025-05-19 13:56:21,672 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-19 13:56:24,200 - INFO - Data berhasil disimpan ke Google Sheets
+2025-05-19 13:56:24,200 - INFO - Proses ETL selesai
+2025-05-19 13:58:44,438 - INFO - Memulai proses ETL Fashion Product Scraper
+2025-05-19 13:58:44,438 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/
+2025-05-19 13:58:44,707 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page2
+2025-05-19 13:58:44,861 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page3
+2025-05-19 13:58:45,010 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page4
+2025-05-19 13:58:45,141 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page5
+2025-05-19 13:58:45,255 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page6
+2025-05-19 13:58:45,386 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page7
+2025-05-19 13:58:45,506 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page8
+2025-05-19 13:58:45,620 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page9
+2025-05-19 13:58:45,737 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page10
+2025-05-19 13:58:45,854 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page11
+2025-05-19 13:58:45,962 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page12
+2025-05-19 13:58:46,087 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page13
+2025-05-19 13:58:46,203 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page14
+2025-05-19 13:58:46,321 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page15
+2025-05-19 13:58:46,455 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page16
+2025-05-19 13:58:46,577 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page17
+2025-05-19 13:58:46,705 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page18
+2025-05-19 13:58:46,848 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page19
+2025-05-19 13:58:46,971 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page20
+2025-05-19 13:58:47,096 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page21
+2025-05-19 13:58:47,217 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page22
+2025-05-19 13:58:47,338 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page23
+2025-05-19 13:58:47,455 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page24
+2025-05-19 13:58:47,604 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page25
+2025-05-19 13:58:47,729 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page26
+2025-05-19 13:58:47,846 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page27
+2025-05-19 13:58:47,966 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page28
+2025-05-19 13:58:48,099 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page29
+2025-05-19 13:58:48,217 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page30
+2025-05-19 13:58:48,346 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page31
+2025-05-19 13:58:48,461 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page32
+2025-05-19 13:58:48,579 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page33
+2025-05-19 13:58:48,714 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page34
+2025-05-19 13:58:48,838 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page35
+2025-05-19 13:58:49,012 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page36
+2025-05-19 13:58:49,198 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page37
+2025-05-19 13:58:49,332 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page38
+2025-05-19 13:58:49,722 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page39
+2025-05-19 13:58:50,086 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page40
+2025-05-19 13:58:50,214 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page41
+2025-05-19 13:58:50,333 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page42
+2025-05-19 13:58:50,446 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page43
+2025-05-19 13:58:50,571 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page44
+2025-05-19 13:58:50,688 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page45
+2025-05-19 13:58:50,798 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page46
+2025-05-19 13:58:50,928 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page47
+2025-05-19 13:58:51,047 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page48
+2025-05-19 13:58:51,170 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page49
+2025-05-19 13:58:51,289 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page50
+2025-05-19 13:58:51,445 - INFO - Transformasi data selesai
+2025-05-19 13:58:51,463 - INFO - Data disimpan dalam format CSV
+2025-05-19 13:58:52,051 - INFO - Data dimuat ke PostgreSQL
+2025-05-19 13:58:52,071 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-19 13:58:54,359 - INFO - Data berhasil disimpan ke Google Sheets
+2025-05-19 13:58:54,359 - INFO - Proses ETL selesai
+2025-06-30 17:53:52,584 - INFO - Memulai proses ETL Fashion Product Scraper
+2025-06-30 17:53:52,585 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/
+2025-06-30 17:53:53,022 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page2
+2025-06-30 17:53:53,422 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page3
+2025-06-30 17:53:53,781 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page4
+2025-06-30 17:53:53,922 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page5
+2025-06-30 17:53:54,032 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page6
+2025-06-30 17:53:54,665 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page7
+2025-06-30 17:53:54,766 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page8
+2025-06-30 17:53:55,401 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page9
+2025-06-30 17:53:55,516 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page10
+2025-06-30 17:53:55,631 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page11
+2025-06-30 17:53:55,743 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page12
+2025-06-30 17:53:55,851 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page13
+2025-06-30 17:53:55,962 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page14
+2025-06-30 17:53:56,069 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page15
+2025-06-30 17:53:56,212 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page16
+2025-06-30 17:53:56,624 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page17
+2025-06-30 17:53:57,243 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page18
+2025-06-30 17:53:57,479 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page19
+2025-06-30 17:53:57,652 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page20
+2025-06-30 17:53:57,869 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page21
+2025-06-30 17:53:58,348 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page22
+2025-06-30 17:53:58,820 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page23
+2025-06-30 17:53:59,252 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page24
+2025-06-30 17:53:59,355 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page25
+2025-06-30 17:53:59,461 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page26
+2025-06-30 17:53:59,896 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page27
+2025-06-30 17:54:00,023 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page28
+2025-06-30 17:54:00,514 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page29
+2025-06-30 17:54:00,964 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page30
+2025-06-30 17:54:01,757 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page31
+2025-06-30 17:54:01,863 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page32
+2025-06-30 17:54:01,964 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page33
+2025-06-30 17:54:02,065 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page34
+2025-06-30 17:54:02,634 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page35
+2025-06-30 17:54:03,058 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page36
+2025-06-30 17:54:03,676 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page37
+2025-06-30 17:54:04,218 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page38
+2025-06-30 17:54:04,892 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page39
+2025-06-30 17:54:05,060 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page40
+2025-06-30 17:54:05,622 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page41
+2025-06-30 17:54:06,136 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page42
+2025-06-30 17:54:06,255 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page43
+2025-06-30 17:54:06,760 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page44
+2025-06-30 17:54:07,442 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page45
+2025-06-30 17:54:07,576 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page46
+2025-06-30 17:54:08,391 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page47
+2025-06-30 17:54:09,063 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page48
+2025-06-30 17:54:09,232 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page49
+2025-06-30 17:54:10,955 - INFO - Scraping dari URL: https://fashion-studio.dicoding.dev/page50
+2025-06-30 17:54:11,638 - INFO - Transformasi data selesai
+2025-06-30 17:54:11,659 - INFO - Data disimpan dalam format CSV
+2025-06-30 17:54:12,320 - INFO - Data dimuat ke PostgreSQL
+2025-06-30 17:54:12,336 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-30 17:54:15,259 - INFO - Data berhasil disimpan ke Google Sheets
+2025-06-30 17:54:15,259 - INFO - Proses ETL selesai
